@@ -5,22 +5,22 @@ module.exports = {
   ],
   theme: {
     extend: {
-      // backgroundImage: {
-      //   'hero-layer': "url('./assets/image/webp/hero-layer.webp')",
-      // },
+      backgroundImage: {
+        'pattern': "url('./assets/image/webp/Pattern.png')",
+      },
       fontFamily: {
         'Messiri': "'El Messiri', sans-serif",
         'Lato': "'Lato', sans-serif",
       },
       colors: {
-        'off-gray': "#4C4C4C",
+        'off-gray': "#4C4C4C",  
         'deep-blue': "#1B3353",
         // 'dark-blue': "#110163",
         'light-blue': "#2BA8E0",
         'off-white': "##F3F5F6",
         'whitelight': "#FBFBFC",
         'light-gray': "#4D4D4D",
-        // 'light-green': "#85B6A6",
+        'sky-blue': "#2BA8E0",
       },
       container: {
         center: true,
@@ -33,7 +33,7 @@ module.exports = {
         },
       },
       dropShadow: {
-        '3xl': "2px 2px 0px black",
+        '3xl': " 0px 14px 30.5px 0px #1B33531F",
         '4xl': "2px 2px 0px #076787",
       },
       boxShadow: {
