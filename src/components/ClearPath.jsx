@@ -14,7 +14,7 @@ const Webserv = () => {
                 <p className=' font-Lato font-normal text-base text-center max-w-[800px] mx-auto pt-[16px] text-black opacity-70'>Elevated performance call center focussing on quality of service and transparency.</p>
                 <div className="flex flex-row flex-wrap -mx-3 mt-[40px] mb-[65px] ">
                     <div className="lg:w-1/3 md:w-1/2 sm:w-full px-3 sm-mt-0 mt-[60px] justify-center items-center mx-auto">
-                        <div className=' p-[32px_32px_79px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue '>
+                        <div className=' p-[32px_32px_79px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue h-full '>
                             <div className=' w-[99px] h-[96px] bg-white mx-auto -mt-[43px] grid place-items-center rounded-[6px] group-hover:bg-white shadow-3xl'>
                                 <img
                                     src={massage2}
@@ -32,7 +32,7 @@ const Webserv = () => {
 
                     </div>
                     <div className="lg:w-1/3 md:w-1/2 sm:w-full px-3 sm-mt-0 mt-[60px] justify-center items-center mx-auto">
-                        <div className=' p-[32px_32px_26px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue '>
+                        <div className=' h-full p-[32px_32px_26px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue '>
                             <div className=' w-[99px] h-[96px] bg-white mx-auto -mt-[43px] grid place-items-center rounded-[6px] group-hover:bg-white shadow-3xl'>
                                 <img
                                     src={box}
@@ -50,7 +50,7 @@ const Webserv = () => {
 
                     </div>
                     <div className="lg:w-1/3 md:w-1/2 sm:w-full px-3 sm-mt-0 mt-[60px] justify-center items-center mx-auto">
-                        <div className=' p-[32px_32px_55px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue '>
+                        <div className=' h-full p-[32px_32px_55px_32px] shadow-3xl bg-white rounded-xl border border-[#D1D5DC] duration-100 group hover:bg-deep-blue '>
                             <div className=' w-[99px] h-[96px] bg-white mx-auto -mt-[43px] grid place-items-center rounded-[6px] group-hover:bg-white shadow-3xl'>
                                 <img
                                     src={person}
