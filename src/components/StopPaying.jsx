@@ -1,6 +1,6 @@
 import React from 'react'
 import CommonHeading from './common/CommonHeading'
-import hero from '../../src/assets/image/webp/hero-img.png'
+import hero from '../../src/assets/image/webp/hero-img.webp'
 import icon1 from '../assets/image/svg/icon1.svg'
 import icon2 from '../assets/image/svg/icon2.svg'
 

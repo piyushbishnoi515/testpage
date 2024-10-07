@@ -6,14 +6,14 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'pattern': "url('./assets/image/webp/Pattern.png')",
+        'pattern': "url('./assets/image/webp/Pattern.webp')",
       },
       fontFamily: {
         'Messiri': "'El Messiri', sans-serif",
         'Lato': "'Lato', sans-serif",
       },
       colors: {
-        'off-gray': "#4C4C4C",  
+        'off-gray': "#4C4C4C",
         'deep-blue': "#1B3353",
         // 'dark-blue': "#110163",
         'light-blue': "#2BA8E0",

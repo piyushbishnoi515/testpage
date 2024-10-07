@@ -1,5 +1,5 @@
 import React from 'react'
-import mobile from '../src/assets/image/webp/mobile-img.png'
+import mobile from '../src/assets/image/webp/mobile-img.webp'
 
 const MobileEfforts = () => {
     return (

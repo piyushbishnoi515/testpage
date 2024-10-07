@@ -1,6 +1,6 @@
 import React from 'react'
 import CommonHeading from './common/CommonHeading'
-import graph from '../assets/image/webp/graph-image.png'
+import graph from '../assets/image/webp/graph-image.webp'
 
 const Transparency = () => {
     return (
